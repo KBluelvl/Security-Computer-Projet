@@ -1,10 +1,10 @@
 # Computer project
 
 ## Authors
-This project was made Essomba Florian 58137 and Lejeune Mathéo 58738
+This project was made Essomba Florian and Lejeune Mathéo
 
 ## Helper
-Zeki OZKARA 58143
+Zeki OZKARA
 
 ## Orders and installation required
 After cloning the project, perform the following manipulations :
